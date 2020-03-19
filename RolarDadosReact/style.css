@@ -1,0 +1,35 @@
+.game {
+  text-align: center;
+}
+
+.game-info {
+  width: 450px;
+  display: inline-block;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+}
+
+.board-row input {
+  width: 45px;
+  height: 45px;
+}
+
+.game-button {
+  margin: 5px
+}
+
+.inputNumber{
+  width: 200px;
+}
+
+input{
+  border-style: groove;
+  text-align: center;
+}
+
+div{
+  padding: 4px
+}
